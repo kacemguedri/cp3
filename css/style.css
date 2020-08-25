@@ -1,0 +1,109 @@
+header{
+    /* display: flex;
+  justify-content: flex-end; */
+    display: inline;
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+    }
+.navigation{
+    display: flex;
+    justify-content: flex-end
+  
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color:gray;
+}
+.titre{
+    text-align: center;
+    color: turquoise;
+}
+.grid{
+    display: flex;
+}
+.d1{
+    padding: 10px;
+}
+.grid1{
+    display: flex;
+
+}
+.d2{
+    background-color: teal;
+    padding: 10px;
+    margin: 10px;
+}
+.d3{
+    background-color: rgb(18, 121, 180);
+    padding: 10px;
+    margin: 10px;
+}
+.d4{
+    color: rgb(110, 212, 216);
+}
+.company{
+    text-decoration: none;
+    color: rgb(187, 182, 182);
+    
+}
+.company:hover{
+    text-decoration: none;
+    color:turquoise;
+}
+.grid2{
+    display:flex;
+
+}
+.boton{  display: flex;
+    justify-content: flex-end;
+}
+.text1{
+    color: teal;
+}
+
+.ooo{
+    display: flex;
+}
+
+.oooo{
+    display: flex;
+}
+.card{
+    background-color: white;
+    height: 4cm;
+    width: 7cm;
+}  
+#nom{
+    color: teal;
+}
+#nom1{
+    color: gray;
+}
+.wow{
+    display:flex;
+}
+.waw1{
+    margin: 16px;
+}
+.waw1:hover{
+    -webkit-box-shadow: 10px 10px 17px 0px rgba(189,178,189,1);
+-moz-box-shadow: 10px 10px 17px 0px rgba(189,178,189,1);
+box-shadow: 10px 10px 17px 0px rgba(189,178,189,1);
+}
+
+
+.foot{
+  
+    text-align: center;
+    font-size: 10px;
+    color: rgb(165, 164, 164);
+    border-top: solid 1px;
+    border-color: rgb(165, 164, 164);
+}
+    
